@@ -1,0 +1,11 @@
+*.manifest
+Library/
+Logs/
+Temp/
+obj/
+Packages/
+.vs/
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Learn_HotUpdate.sln

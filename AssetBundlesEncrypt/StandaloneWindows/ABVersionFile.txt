@@ -1,0 +1,9 @@
+AssetBundles/StandaloneWindows/common.ab aa4312a6a4f221f365d6415037e94a3c 179
+AssetBundles/StandaloneWindows/common.ab.manifest 7ccb2baa71c33d860b9aa13a57743d44 1
+AssetBundles/StandaloneWindows/lua.ab c1893436386d81be0187c7cbfe1b2f83 2
+AssetBundles/StandaloneWindows/lua.ab.manifest 2e886cdf040343cd082a5c5935d3be08 1
+AssetBundles/StandaloneWindows/mode.ab 9eeb8d9988c2996033c7ea19db90b665 3
+AssetBundles/StandaloneWindows/mode.ab.manifest f288781585c5e85329ac25ca1728ba27 1
+AssetBundles/StandaloneWindows/StandaloneWindows 917f7311216cf53bcf4467a90cea2d21 2
+AssetBundles/StandaloneWindows/StandaloneWindows.manifest 23f79179ec940cf0f6521ab717cb35c0 1
+
